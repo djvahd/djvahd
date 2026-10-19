@@ -12,17 +12,17 @@ Based in Jatinangor, West Java.
 
 ## Featured
 
-**[Photobooth WebApp](https://github.com/djvahd/Photobooth-WebApp)** (client project, live at [photobooth-webapp.netlify.app](https://photobooth-webapp.netlify.app))
+**[Photobooth WebApp](https://github.com/djvahd/Photobooth-WebApp)** (client project, live at [photobooth-webapp.netlify.app](https://photobooth-webapp.netlify.app))<br>
 Browser photobooth for events. Guest kiosk with camera, preview, and QR; admin panel for sessions and print queue; files in Google Drive with a Google Apps Script backend.
 
-**[Portfolio](https://github.com/djvahd/portofolio)** ([adrielharjanto.is-a.dev](https://adrielharjanto.is-a.dev))
+**[Portfolio](https://github.com/djvahd/portofolio)** ([adrielharjanto.is-a.dev](https://adrielharjanto.is-a.dev))<br>
 Personal site built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion.
 
-**Harmoni Clothing** (client project, demo stage, private repo)
+**Harmoni Clothing** (client project, demo stage, private repo)<br>
 Print-on-demand, custom apparel, and design marketplace. Laravel 13 API and Next.js 15 frontend.
 
-**University team projects** (3-person teams, repos not on this account)
-Arsipia: a web app on student organizations' Google Drive that keeps knowledge across leadership handovers (Laravel).
+**University team projects** (3-person teams, repos not on this account)<br>
+Arsipia: a web app on student organizations' Google Drive that keeps knowledge across leadership handovers (Laravel).<br>
 Smart Odong Campus System: real-time campus shuttle tracking with C++ data structures (Laravel, Livewire).
 
 ## Leadership
